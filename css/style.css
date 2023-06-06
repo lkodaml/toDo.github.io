@@ -268,3 +268,8 @@ body{
         padding: 20px 0px;
     }
 }
+
+
+.todo__list-active-btn:last-child{
+    margin-bottom: 20px;
+}
