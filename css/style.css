@@ -270,6 +270,6 @@ body{
 }
 
 
-.todo__list-active-btn:last-child{
+.todo__list-active-item:last-child{
     margin-bottom: 20px;
 }
